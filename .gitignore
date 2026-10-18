@@ -1,0 +1,17 @@
+# Datasets grandes
+dataset/*.csv
+dataset_filtrado/*.csv
+
+# Modelos treinados
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# VS Code
+.vscode/
